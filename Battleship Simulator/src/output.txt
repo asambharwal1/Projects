@@ -1,0 +1,33 @@
+Game 1:
+Strategy: Horizontal Sweep
+Number of cells searched: 138
+Carrier found: (0,0) to (0,4)	Submarine found: (4,15) to (4,17)
+Strategy: Random Search
+Number of cells searched: 793
+Carrier found: (0,0) to (0,4)	Submarine found: (4,15) to (4,17)
+Strategy: Strategic Search
+Number of cells searched: 602
+Carrier found: (0,0) to (0,4)	Submarine found: (4,15) to (4,17)
+
+Game 2:
+Strategy: Horizontal Sweep
+Number of cells searched: 512
+Carrier found: (5,9) to (5,13)	Submarine found: (20,5) to (20,7)
+Strategy: Random Search
+Number of cells searched: 2054
+Carrier found: (5,9) to (5,13)	Submarine found: (20,5) to (20,7)
+Strategy: Strategic Search
+Number of cells searched: 319
+Carrier found: (5,9) to (5,13)	Submarine found: (20,5) to (20,7)
+
+Game 3:
+Strategy: Horizontal Sweep
+Number of cells searched: 609
+Carrier found: (14,3) to (18,3)	Submarine found: (24,6) to (24,8)
+Strategy: Random Search
+Number of cells searched: 1330
+Carrier found: (14,3) to (18,3)	Submarine found: (24,6) to (24,8)
+Strategy: Strategic Search
+Number of cells searched: 443
+Carrier found: (14,3) to (18,3)	Submarine found: (24,6) to (24,8)
+
